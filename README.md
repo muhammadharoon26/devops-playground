@@ -24,10 +24,10 @@ Shell Scripting
 Web-based Terminal (ttyd)
 
 # Getting Started
-[Get started with setting up and initializing the project.](tutorials\01-getting-started.md)
+[Get started with setting up and initializing the DevOps Playground.](tutorials/01-getting-started.md)
 
 # Deployment
-tutorials\02-deploying-apps.md
+[Deploy the applications in DevOps Playground.](tutorials/02-deploying-apps.md)
 
 # Monitoring
-tutorials\03-monitoring.md
+[Monitor the DevOps Playground.](tutorials/03-monitoring.md)
