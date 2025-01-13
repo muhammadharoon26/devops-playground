@@ -24,7 +24,7 @@ Shell Scripting
 Web-based Terminal (ttyd)
 
 # Getting Started
-tutorials\01-getting-started.md
+[Get started with setting up and initializing the project.](tutorials\01-getting-started.md)
 
 # Deployment
 tutorials\02-deploying-apps.md
