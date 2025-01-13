@@ -31,3 +31,5 @@
 
 # Monitoring
 [Monitor the DevOps Playground.](tutorials/03-monitoring.md)
+
+🌐 The entire project is open-source and includes comprehensive documentation to help you get started.
